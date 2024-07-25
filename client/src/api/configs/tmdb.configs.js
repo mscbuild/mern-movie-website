@@ -19,7 +19,7 @@ const tmdbConfigs = {
   mediaCategory,
   backdropPath,
   posterPath,
-  youtubePath
+   youtubePath
 };
 
 export default tmdbConfigs;

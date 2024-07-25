@@ -42,7 +42,7 @@ const PersonMediaGrid = ({ personId }) => {
         {filteredMedias.map((media, index) => (
           <Grid item xs={6} sm={4} md={3} key={index}>
             <MediaItem media={media} mediaType={media.media_type} />
-          </Grid>
+          </Grid> 
         ))}
       </Grid>
       {filteredMedias.length < medias.length && (

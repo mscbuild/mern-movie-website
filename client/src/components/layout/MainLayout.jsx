@@ -41,20 +41,12 @@ const MainLayout = () => {
 
   return (
     <>
-      {/* global loading */}
+      
       <GlobalLoading />
-      {/* global loading */}
-
-      {/* login modal */}
       <AuthModal />
-      {/* login modal */}
-
       <Box display="flex" minHeight="100vh">
-        {/* header */}
+     
         <Topbar />
-        {/* header */}
-
-        {/* main */}
         <Box
           component="main"
           flexGrow={1}
@@ -63,12 +55,12 @@ const MainLayout = () => {
         >
           <Outlet />
         </Box>
-        {/* main */}
+      
       </Box>
 
-      {/* footer */}
+ 
       <Footer />
-      {/* footer */}
+
     </>
   );
 };

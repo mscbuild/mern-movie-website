@@ -1,12 +1,6 @@
-# Movie Website
+# Fuulstack Responsive Movie Website
 
-Fullstack Responsive Movie Website  
-
-# Video tutorial
-
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
-
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+**MERN Stack aims to simplify the entire tech stack, by pre-determining the technologies. Developers and designers need not go through the pain of deciding what technologies should be used for which business case. Further, they need not learn or hire multiple people who know the different technologies, or put the onus on a single person. With a MERN stack, anyone can build simple or complex applications by just knowing a handful of technologies. This makes production faster and saves overall cost, without compromising on scalability, performance and security.**
 
 # Resource
 

@@ -1,6 +1,6 @@
-# MoonFlix
+# Movie Website
 
-    Fullstack Responsive Movie Website 2022
+Fullstack Responsive Movie Website  
 
 # Video tutorial
 

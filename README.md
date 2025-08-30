@@ -1,4 +1,13 @@
-# Fuulstack Responsive Movie Website
+# Fullstack Responsive Movie Website
+
+![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/mern-movie-website) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/mern-movie-website)
+![](https://img.shields.io/badge/code%20style-mern-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
 
 **MERN Stack aims to simplify the entire tech stack, by pre-determining the technologies. Developers and designers need not go through the pain of deciding what technologies should be used for which business case. Further, they need not learn or hire multiple people who know the different technologies, or put the onus on a single person. With a MERN stack, anyone can build simple or complex applications by just knowing a handful of technologies. This makes production faster and saves overall cost, without compromising on scalability, performance and security.**
 
